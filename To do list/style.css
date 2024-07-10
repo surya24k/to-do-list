@@ -1,0 +1,28 @@
+.violet{
+    margin: 90px 400px;
+    background-color:rgb(106, 59, 140);
+    padding: 30px;
+}
+.main{
+    background-color:rgb(31, 15, 55);
+    padding: 30px 10px;
+    margin:30px 30px;
+}
+a{
+    color:white;
+    margin: 10px;
+}
+.box{
+    border:2px solid white;
+    color: navy;
+}
+.cross{
+    text-decoration:line-through;
+    color: rgb(111, 106, 106);
+}
+h5{
+    position: relative;
+    border:1px solid;
+    background-color: navy;
+    
+}
